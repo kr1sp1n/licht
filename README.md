@@ -5,8 +5,6 @@ Different symbols have different brightness.
 
 ## usage
 
-licht <n> <symbol>
-
 ```bash
 licht 10811 A
 ```
